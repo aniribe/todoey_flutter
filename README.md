@@ -1,16 +1,10 @@
-# todoey_flutter
+# Todoey
 
-A new Flutter application.
+A todolist app to keep track of all your tasks.
 
-## Getting Started
+## Our Goal
 
-This project is a starting point for a Flutter application.
+The objective of this project is to understand how to manage state in Flutter. I'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
